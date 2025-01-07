@@ -1,1 +1,1 @@
-# -IoT-Edge-AI-Framework-Builder-Application
+# IoT-Edge-AI-Framework-Builder-Application
